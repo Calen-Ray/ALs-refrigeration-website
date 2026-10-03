@@ -1,0 +1,17 @@
+# Working files - keep out of the public site
+handoff/
+*.zip
+REDESIGN-BRIEF.md
+existing site/
+.claude/
+# Old assets not used by the new page
+assets/Cost-Effective-Appliance-Repair-Services-in-Grants-Pass-OR.webp
+assets/a-tool-box-grant-pass-or.webp
+assets/als-refrigeration.png
+assets/als-refrigeration-white.png
+assets/monte-tacoma.jpg
+# OS / editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
